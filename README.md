@@ -1,11 +1,13 @@
 # roll
 
+```
   ____
  /\' .\    _____
 /: \___\  / .  /\
 \' / . / /____/..\
  \/___/  \'  '\  /
           \'__'\/
+```
 
 Discord üzerinden DnD oynarken hızlı zar atabilmek için oluşturulmuş bir python scripti. 
 
