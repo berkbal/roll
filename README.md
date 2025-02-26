@@ -13,7 +13,7 @@ Discord üzerinden DnD oynarken hızlı zar atabilmek için oluşturulmuş bir p
 
 ## Kullanımı
 
-```cp roll.py /usr/bin/```
-```roll zar```
+- ```cp roll.py /usr/bin/```
+- ```roll zar```
 
-```roll yardim``` yazarak hangi zarları atabileceğinizi görebilirsiniz.
+- ```roll yardim``` yazarak hangi zarları atabileceğinizi görebilirsiniz.
